@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: content-box;
+    border: 10cm;
+    padding-left: 3cm;
+    padding-right: 3cm;
+    padding-top: 3cm;
+    padding-bottom: 3cm;
+
+
+}
+button{
+    cursor: pointer;
+    color: aqua;
+    box-sizing: inherit;
+    box-shadow: inset;
+    background-color: beige;
+    
+    column-gap:3cm;
+}
+h1{
+    color: blueviolet;
+    font-style: italic;
+}
+h4{
+    color: black;
+    font-style: oblique;
+}
